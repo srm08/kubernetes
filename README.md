@@ -1,6 +1,4 @@
-# kubernetes
-
-kubernetes Deployment on aws EKS
+# kubernetes Deployment on aws EKS
 
 kubectl apply -f challenge-deployment.yaml
 
