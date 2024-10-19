@@ -1,5 +1,7 @@
 # kubernetes
 
+kubernetes Deployment on aws EKS
+
 kubectl apply -f challenge-deployment.yaml
 
 kubectl get ns
